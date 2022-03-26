@@ -1,1 +1,1 @@
-# stepik_oop
+# oop_fundementals
