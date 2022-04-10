@@ -125,4 +125,5 @@ except Exception:
     print('done')
 
 class SnakeTailException(SnakeTailException):
-    '''Tail touches the body '''
+    '''Tail touches the body !!! '''
+
