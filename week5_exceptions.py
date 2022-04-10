@@ -51,6 +51,7 @@ def first():
 print('hello')
 first()
 
+
 # 5.3 try-except
 
 try:
@@ -116,7 +117,7 @@ except ValueError:
 # 5.5 User exceptions
 
 class MyException(Exception):
-    ''' this is my first expection'''
+    ''' this is my first exception'''
 
 try:
     raise MyException('HELLO', 1, 2 ,3)
